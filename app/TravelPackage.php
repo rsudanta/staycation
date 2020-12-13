@@ -1,4 +1,4 @@
-us<?php
+<?php
 
 namespace App;
 
